@@ -1,5 +1,4 @@
 from flask import Flask
-import Nse
 
 app = Flask(__name__)
 
